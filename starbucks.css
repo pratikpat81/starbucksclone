@@ -116,6 +116,7 @@ section a {
     display: flex;
     align-items: center;
     margin: 20px 0; 
+    padding-top: 10px;
 }
   
 .social img { 
@@ -133,6 +134,7 @@ section a {
     height:1px; 
     background-color:#CCC;
     margin: 40px auto;
+    margin-bottom: 10px;
 }
 
 
